@@ -1,0 +1,36 @@
+# Unity generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Bb]uild/
+[Bb]uilds/
+[Pp]ackages/com.unity.*
+Obj/
+*.csproj
+*.unityproj
+*.sln
+*.user
+*.pidb
+*.suo
+*.svd
+*.userprefs
+*.booproj
+*.orig
+*.swp
+*.tmp
+*.bak
+*.old
+*.log
+
+# Crash and log files
+sysinfo.txt
+*.stacktrace
+
+# Unity Cloud build
+unitycloud/
+
+# Visual Studio Code
+.vscode/
+
+# Rider
+.idea/
+*.sln.iml

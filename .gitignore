@@ -3,6 +3,8 @@
 [Tt]emp/
 [Bb]uild/
 [Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
 [Pp]ackages/com.unity.*
 Obj/
 *.csproj
